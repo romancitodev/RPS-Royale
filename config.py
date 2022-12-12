@@ -1,0 +1,13 @@
+SIZE = (1024, 800)
+MAX_FPS = 60
+
+IMAGE_PATH = 'images/'
+
+ROCK_IMG = IMAGE_PATH + 'rock.png'
+PAPER_IMG = IMAGE_PATH + 'paper.png'
+SCISSORS_IMG = IMAGE_PATH + 'scissors.png'
+
+MAX_ENTITY_SPAWN = 15
+MAX_ENTITY_SPEED = 5
+
+WHITE_BG = 255, 255, 255
