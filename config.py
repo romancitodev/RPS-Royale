@@ -2,10 +2,16 @@ SIZE = (1024, 800)
 MAX_FPS = 60
 
 IMAGE_PATH = 'images/'
+SOUND_PATH = 'sounds/'
 
 ROCK_IMG = IMAGE_PATH + 'rock.png'
 PAPER_IMG = IMAGE_PATH + 'paper.png'
 SCISSORS_IMG = IMAGE_PATH + 'scissors.png'
+
+ROCK_SOUND = SOUND_PATH + 'stone.mp3'
+PAPER_SOUND = SOUND_PATH + 'paper.mp3'
+SCISSORS_SOUND = SOUND_PATH + 'scissors.mp3'
+ALARM_SOUND = SOUND_PATH + 'alarm.mp3'
 
 MAX_ENTITY_SPAWN = 15
 MAX_ENTITY_SPEED = 5
